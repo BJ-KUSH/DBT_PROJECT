@@ -18,3 +18,6 @@ Try running the following commands:
 - Activate env (source test_dbt_env/bin/activate)
 - run models command: dbt run --select model
 - run tests command: dbt test --select model
+
+### Project
+- netflix_project is first DBT project! Many more to come :)
